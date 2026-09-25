@@ -1,3 +1,4 @@
+```
 2.1.3. cd / 
 2.1.4. ls
 2.1.5. ls /etc
@@ -55,3 +56,4 @@
 2.5.16. find /usr/bin -type f -atime +90 2>/dev/null
 2.5.17. find /usr/bin /usr/share -type f -mtime -10 2>/dev/null
 2.5.18. find /tmp -type f -mtime +14 -delete 2>/dev/null
+```
